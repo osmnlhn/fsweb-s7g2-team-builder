@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+form > div {
+  margin: 5px;
+}
+
+label {
+  margin-right: 3px;
+}
+
+.member-card {
+  text-align: center;
+  display: flex;
+  border: 13px solid #ed0808;
+  padding: 1rem;
+  margin: 1rem;
+  font-style:inherit;
+  font-family: sans-serif;
+  color: firebrick;
+  gap: 5rem;
+  flex-grow: 1rem;
+}
